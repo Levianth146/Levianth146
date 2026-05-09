@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a FinTech student at University of Economics and Law - Vietnam National University Ho Chi Minh City
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
-* 🧠  I'm currently learning AI, Machine Learning & Deep Learning
+* 🧠  I'm currently learning Blockchain, Machine Learning & Full stack analysis
 * 👥  I'm looking to collaborate on projects and innovative/disruptive ideas
 * ✉️  You can contact me at [nguyencuongdl2006@gmail.com](mailto:nguyencuongdl2006@gmail.com)
 
